@@ -45,10 +45,17 @@ Usage
 
 From this dir you can run:
 
-# Create virtualenv 
+Create virtualenv 
+-----
+```
 virtualenv -p python2.7 dc2dr
-# activate virtualenv
+```
+
+Activate virtualenv
+-----
+```
 source dc2dr/bin/activate
+```
 
 
 ```
